@@ -8,7 +8,7 @@ public class ArrayPractice
 {
     public static void main(String[] args)
     {
-        // First Dimentional Array
+        // One Dimentional Array
         int[] myarray = new int[5];
         myarray [0] = 1;
         myarray [1] = 5;
@@ -17,5 +17,11 @@ public class ArrayPractice
         myarray [2] = 79;
         
         System.out.println(myarray[3]);
+        
+        System.out.println(myarray[2]);
+        
+        System.out.println(myarray[4]);
+        
+        // MultiDimentional Array
 }
 }
